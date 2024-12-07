@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../datta_jenkins_terraform"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"zenMode.hideActivityBar": false,
+		"zenMode.hideLineNumbers": false,
+		"zenMode.restore": false
+	}
+}
